@@ -1,7 +1,4 @@
-From discussion on [reddit](https://np.reddit.com/r/DelphiMarkets/comments/6ovjrq/we_are_delphi_ask_us_anything/dkotovo/):
-
------
------
+## From discussion on [reddit](https://np.reddit.com/r/DelphiMarkets/comments/6ovjrq/we_are_delphi_ask_us_anything/dkotovo/)
 
 Not sure why you got the downvotes. Possibly because of swearing?..
 
@@ -41,13 +38,8 @@ This has the added bonus of easy comparison between the projects using github's 
 
 EDITs: typo, expand
 
------
------
 
-And [another one](https://np.reddit.com/r/DelphiMarkets/comments/6ovjrq/we_are_delphi_ask_us_anything/dkp224j/):
-
------
------
+## And [another one](https://np.reddit.com/r/DelphiMarkets/comments/6ovjrq/we_are_delphi_ask_us_anything/dkp224j/)
 
 > My guess is they wanted to hide their identities after they leaked into the repo from a commit attached to the wrong email. I did this once in the past (committed from personal identity instead of work) it's easy to do.
 
